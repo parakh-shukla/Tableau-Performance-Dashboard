@@ -1,5 +1,7 @@
 # Tableau-Performance-Dashboard
 Created the tableau dashboard for the performance visualization for a consulting firm.
+
+#dashboard-link : https://public.tableau.com/app/profile/parakh.shukla/viz/January2025CallOneReport/Dashboard1
 **Project Document: Telemarketing Performance Dashboard – Janu**ary 2025
 
 **1. Project Overview:**
