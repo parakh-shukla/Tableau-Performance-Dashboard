@@ -93,3 +93,6 @@ Regularly update the dashboard with new data.
 Implement suggested improvements and monitor their impact.
 
 Explore deeper analytics, such as call duration and customer demographics, for more nuanced insights.
+
+**Dashboard**
+**https://github.com/parakh-shukla/Tableau-Performance-Dashboard/blob/main/Screenshot%202025-02-25%20185700.png**
